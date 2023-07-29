@@ -1,2 +1,2 @@
 # kandinsky-tools
-Scripts for finetuning Kandinsky 2.2
+Scripts for Kandinsky 2.2
